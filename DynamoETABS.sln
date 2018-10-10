@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoETABS", "ClassLibrary1\DynamoETABS.csproj", "{FA087812-5EEE-4843-97A4-3303F7CE8CA1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ML Example", "ML Example\ML Example.pyproj", "{9006D75B-CC2E-42F8-A15E-47E3C9477F93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA087812-5EEE-4843-97A4-3303F7CE8CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA087812-5EEE-4843-97A4-3303F7CE8CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA087812-5EEE-4843-97A4-3303F7CE8CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA087812-5EEE-4843-97A4-3303F7CE8CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9006D75B-CC2E-42F8-A15E-47E3C9477F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9006D75B-CC2E-42F8-A15E-47E3C9477F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B56DD14-2719-48E1-9206-8DA9781B79AF}
+	EndGlobalSection
+EndGlobal
